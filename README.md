@@ -1,4 +1,4 @@
-# DiGiScanner-PrivacyPolicy
+# DiGiScanner
 DigiScanner is a document scanner app. You can scan your hard copy documents into soft copy files and save them in the application. You can then share it in PDF or image and store it in your iPhone file manager. You can also password protect the saved documents so that the document remains secure.  
 
 In DigiScanner you can also do an OCR Scan of any image so it can scan any image from any image and save it in the text file. 
